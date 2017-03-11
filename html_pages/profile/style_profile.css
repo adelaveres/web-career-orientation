@@ -1,0 +1,30 @@
+#sidebar-box{
+	background-color: #6B8E23;
+	margin-top: 7%;
+	margin-bottom: auto;
+}
+#sidebar-content{
+	margin: 15% 0% 20% 15%;
+	font-size: 25px;
+}
+.frame{
+	border-style: solid;
+	border-width: 5px;
+	border-color: yellow;
+	margin-top: 10%;
+	margin-left: 0px;
+	margin-right: 20%;
+	margin-bottom: 10%;
+	height: 500px;
+	padding: 10px;
+	font-size: 18px;
+	background-color:rgba(255,248,220,0.7);
+}
+
+.body-content{
+	background-image: url(http://www.desktopwallpaperhd.net/wallpapers/1/b/cartoon-windows-discuz-character-wallpapers-characters-car-17259.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+}

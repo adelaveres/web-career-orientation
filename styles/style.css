@@ -1,0 +1,31 @@
+.title{
+	color:green;
+	font-family:'Pacifico',cursive;
+	margin:50px 0 20px 0;
+	font-size:50px;
+}
+.motto{
+	font-family:'Trebuchet MS', Helvetica, sans-serif;
+	color:green;
+}
+.home-bodytext{
+	margin: 30px 340px 0 340px;
+	font-size: 20px;
+}
+#menu-bar{
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: gray; 
+  position: fixed;
+  top:0;
+  width: 100%;
+}
+
+#sidebar_title{
+	background : #278f93;
+	height: auto;
+	color: white;
+	padding: 2px;
+	font-size: 28px;
+	font-family: "palatino Linotype", "book Antiqua";
+}

@@ -1,0 +1,37 @@
+#sidebar-box{
+	background-color: #6B8E23;
+	margin-top: 5%;
+	margin-bottom: auto;
+}
+#sidebar-content{
+	margin: 15% 0% 20% 15%;
+	font-size: 25px;
+}
+.login-title{
+	font-family:
+}
+.body-content{
+	background-image: url("http://www.desktopwallpaperhd.net/wallpapers/22/a/creative-digital-design-love-house-heart-cloud-229098.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+}
+.login-box{
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin-top: 6%;
+	margin-left: 20%;
+	margin-right: 40%;
+	padding: 2%;
+	background-color:rgba(255,248,220,0.87);
+}
+.input-class{
+	margin: 0 0 10% 0;
+}
+
+
+
+
+

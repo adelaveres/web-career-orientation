@@ -1,0 +1,49 @@
+.title{
+	color:green;
+	font-family:'Pacifico',cursive;
+	margin:50px 0 20px 0;
+	font-size:55px;
+}
+.motto{
+	font-family:'Trebuchet MS', Helvetica, sans-serif;
+	font-size: 20px;
+	color: #4169E1;
+}
+.home-bodytext{
+	font-size: 20px;
+}
+.body-content{
+	background-image: url(http://menintalk.com/wp-content/uploads/2015/05/banner-career.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.body-box{
+	margin: 0 30% 0 30%;
+	background-color:rgba(255,248,220,0.87);
+}
+#menu-bar{
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: gray; 
+  position: fixed;
+  top:0;
+  width: 100%;
+}
+
+#sidebar_title{
+	background : #278f93;
+	height: auto;
+	color: white;
+	padding: 2px;
+	font-size: 28px;
+	font-family: "palatino Linotype", "book Antiqua";
+}
+#content_area{
+	padding:10px;
+}
+#product_box{
+	padding: 181px;
+	margin-left:435px;
+	margin-top:-193px;
+}
